@@ -1,21 +1,6 @@
 # Python-code-
 
-""Python codes for students as well as ot
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+""Python codes for students as well as others
 
 
 
