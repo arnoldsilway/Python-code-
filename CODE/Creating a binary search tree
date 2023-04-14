@@ -1,0 +1,9 @@
+class BSTNode:
+      def __init__(self,data):
+          self.data=data
+          self.leftchild=None
+          self.rightchild=None
+newtree=BSTNode(70)
+print(newTree.data)
+print(newTree.leftchild)
+print(newTree.rightchild)
