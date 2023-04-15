@@ -1,0 +1,10 @@
+Class SinglylLinkedList:
+      def __init__(self):
+          self.head=None
+          self.tail=None
+      LL=SinglyLinkedList()
+      LL.head=Node(11)
+      n2=node(15)
+      n1.next=n2
+      n3=Node(16)
+      n2.next=n3
