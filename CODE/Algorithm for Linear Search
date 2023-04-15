@@ -1,0 +1,5 @@
+linearSearch(list,key)
+for all items in list
+  if list==values
+  return its index number
+  return-1
