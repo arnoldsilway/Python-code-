@@ -1,0 +1,10 @@
+def insert_at_specific_position(self,position,data):
+    print()
+    nib=Node(data)
+    temp=self.head
+    for i in range(1,position-1):
+    temp=temp.next
+    nib.next=temp.next
+    temp.next=nib
+    
+LL.insert_at_specific_position()
