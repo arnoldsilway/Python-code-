@@ -1,0 +1,8 @@
+def insert_at_end(self,data):
+    print()
+    temp=self.head
+    while temp.next is not None:
+    temp=temp.next
+    temp.next=ne
+    
+LL.insert_at_end()
