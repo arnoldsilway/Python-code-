@@ -1,0 +1,7 @@
+def insert_at_begining(self,data):
+    print()
+    nb=Node(data)
+    nb.next=self.head
+    self.head=nb
+    
+LL.insert_at_begining()
