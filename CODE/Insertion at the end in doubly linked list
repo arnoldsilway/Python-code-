@@ -1,0 +1,11 @@
+def insert_at_end(self,data):
+     print()
+     ne=Node(data)
+     temp=self.head
+     while temp.next is not None:
+     temp=temp.next
+     temp.next=ne
+     ne.prev=temp
+     
+     
+LL.insert_at_begining()
